@@ -1,4 +1,4 @@
-partner Name,partnerBorrowerId,Total of Loans,Total Amount of Disbursed,Avg Loan Size
+partner Code,partnerBorrowerId,Total of Loans,Total Amount of Disbursed,Avg Loan Size
 VN_EL,687811,210,78500000000.0,3925000000.0
 VN_EL,396714,91,37000000000.0,2846153846.1538463
 VN_EL,11673,595,29250000000.0,860294117.6470588
